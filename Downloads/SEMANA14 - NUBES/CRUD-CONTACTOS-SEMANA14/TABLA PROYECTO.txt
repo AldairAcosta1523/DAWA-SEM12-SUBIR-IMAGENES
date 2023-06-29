@@ -9,3 +9,6 @@ CREATE TABLE contactos (
 );
 
 insert into contactos ( nombre, apellidos , direccion , correo , edad , imagen) values ( "Pablo", "Pablo de los Backyardigans", 2 , "Pablo" , 1500 , "https://imagen3.s3.us-east-2.amazonaws.com/pablo.jpg");
+
+
+PROYECTO CONFIGURADO PARA TENER 2 INSTANCIAS EN LA CUAL LA PRIMERA CONTENDRA NUESTRO PROYECTO Y LA SEGUNDA NUESTRA BASE DE DATOS (AMBAS CREADAS EN LINUX)
